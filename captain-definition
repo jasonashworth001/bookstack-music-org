@@ -1,1 +1,1 @@
-{"schemaVersion": 2, "dockerComposeFilePath": "./docker-compose.yml"}
+{ "schemaVersion": 2, "imageName": "linuxserver/bookstack:latest" }
