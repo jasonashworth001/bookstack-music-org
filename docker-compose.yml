@@ -15,7 +15,7 @@ services:
     volumes:
       - ./bookstack/config:/config
     ports:
-      - 80:80
+      - 80:80  # You might want to use 443:443 for HTTPS when SSL is enabled
     depends_on:
       - bookstack_db
 
