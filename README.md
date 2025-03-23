@@ -1,2 +1,2 @@
-# bookstack-music-org
+# Bookstack (curently called ChiWiki)
 Bookstack for Chicago Musician Organizing
