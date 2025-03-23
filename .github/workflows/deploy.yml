@@ -18,7 +18,6 @@ jobs:
           command: c
           cwd: "./"
           files: |
-            captain-definition
             docker-compose.yml
           outPath: deploy.tar
 
